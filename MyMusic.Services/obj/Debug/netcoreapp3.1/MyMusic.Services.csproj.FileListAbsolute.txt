@@ -1,0 +1,12 @@
+D:\Projects\Examples\MyMusic\MyMusic.Services\bin\Debug\netcoreapp3.1\MyMusic.Services.deps.json
+D:\Projects\Examples\MyMusic\MyMusic.Services\bin\Debug\netcoreapp3.1\MyMusic.Services.dll
+D:\Projects\Examples\MyMusic\MyMusic.Services\bin\Debug\netcoreapp3.1\MyMusic.Services.pdb
+D:\Projects\Examples\MyMusic\MyMusic.Services\bin\Debug\netcoreapp3.1\MyMusic.Core.dll
+D:\Projects\Examples\MyMusic\MyMusic.Services\bin\Debug\netcoreapp3.1\MyMusic.Core.pdb
+D:\Projects\Examples\MyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.csprojAssemblyReference.cache
+D:\Projects\Examples\MyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.csproj.CoreCompileInputs.cache
+D:\Projects\Examples\MyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.AssemblyInfoInputs.cache
+D:\Projects\Examples\MyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.AssemblyInfo.cs
+D:\Projects\Examples\MyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.csproj.CopyComplete
+D:\Projects\Examples\MyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.dll
+D:\Projects\Examples\MyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.pdb

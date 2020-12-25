@@ -1,0 +1,15 @@
+D:\Projects\Examples\MyMusic\MyMusic.Data\bin\Debug\netcoreapp3.1\MyMusic.Data.deps.json
+D:\Projects\Examples\MyMusic\MyMusic.Data\bin\Debug\netcoreapp3.1\MyMusic.Data.runtimeconfig.json
+D:\Projects\Examples\MyMusic\MyMusic.Data\bin\Debug\netcoreapp3.1\MyMusic.Data.runtimeconfig.dev.json
+D:\Projects\Examples\MyMusic\MyMusic.Data\bin\Debug\netcoreapp3.1\MyMusic.Data.dll
+D:\Projects\Examples\MyMusic\MyMusic.Data\bin\Debug\netcoreapp3.1\MyMusic.Data.pdb
+D:\Projects\Examples\MyMusic\MyMusic.Data\bin\Debug\netcoreapp3.1\MyMusic.Core.dll
+D:\Projects\Examples\MyMusic\MyMusic.Data\bin\Debug\netcoreapp3.1\MyMusic.Core.pdb
+D:\Projects\Examples\MyMusic\MyMusic.Data\obj\Debug\netcoreapp3.1\MyMusic.Data.csprojAssemblyReference.cache
+D:\Projects\Examples\MyMusic\MyMusic.Data\obj\Debug\netcoreapp3.1\MyMusic.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Examples\MyMusic\MyMusic.Data\obj\Debug\netcoreapp3.1\MyMusic.Data.AssemblyInfoInputs.cache
+D:\Projects\Examples\MyMusic\MyMusic.Data\obj\Debug\netcoreapp3.1\MyMusic.Data.AssemblyInfo.cs
+D:\Projects\Examples\MyMusic\MyMusic.Data\obj\Debug\netcoreapp3.1\MyMusic.Data.csproj.CopyComplete
+D:\Projects\Examples\MyMusic\MyMusic.Data\obj\Debug\netcoreapp3.1\MyMusic.Data.dll
+D:\Projects\Examples\MyMusic\MyMusic.Data\obj\Debug\netcoreapp3.1\MyMusic.Data.pdb
+D:\Projects\Examples\MyMusic\MyMusic.Data\obj\Debug\netcoreapp3.1\MyMusic.Data.genruntimeconfig.cache

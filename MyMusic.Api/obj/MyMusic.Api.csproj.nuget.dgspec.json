@@ -1,0 +1,323 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Api\\MyMusic.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Api\\MyMusic.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Api\\MyMusic.Api.csproj",
+        "projectName": "MyMusic.Api",
+        "projectPath": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Api\\MyMusic.Api.csproj",
+        "packagesPath": "C:\\Users\\mshaikh1\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mshaikh1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-external/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-extprop/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-integ-ext/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-localbuild/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-ng-internal/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj": {
+                "projectPath": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj"
+              },
+              "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Data\\MyMusic.Data.csproj": {
+                "projectPath": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Data\\MyMusic.Data.csproj"
+              },
+              "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Services\\MyMusic.Services.csproj": {
+                "projectPath": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Services\\MyMusic.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0-preview2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj",
+        "projectName": "MyMusic.Core",
+        "projectPath": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj",
+        "packagesPath": "C:\\Users\\mshaikh1\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mshaikh1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-external/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-extprop/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-integ-ext/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-localbuild/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-ng-internal/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Data\\MyMusic.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Data\\MyMusic.Data.csproj",
+        "projectName": "MyMusic.Data",
+        "projectPath": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Data\\MyMusic.Data.csproj",
+        "packagesPath": "C:\\Users\\mshaikh1\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mshaikh1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-external/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-extprop/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-integ-ext/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-localbuild/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-ng-internal/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj": {
+                "projectPath": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Services\\MyMusic.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Services\\MyMusic.Services.csproj",
+        "projectName": "MyMusic.Services",
+        "projectPath": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Services\\MyMusic.Services.csproj",
+        "packagesPath": "C:\\Users\\mshaikh1\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mshaikh1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-external/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-extprop/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-integ-ext/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-localbuild/": {},
+          "http://ng-repo.dev.kibocommerce.com:8081/repository/nuget-ng-internal/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj": {
+                "projectPath": "D:\\Projects\\DotNet\\Examples\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
